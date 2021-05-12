@@ -1,0 +1,7 @@
+C:\Users\Yuhao\Desktop\QueensPuzzle\QueensPuzzle\bin\Debug\QueensPuzzle.exe.config
+C:\Users\Yuhao\Desktop\QueensPuzzle\QueensPuzzle\bin\Debug\QueensPuzzle.exe
+C:\Users\Yuhao\Desktop\QueensPuzzle\QueensPuzzle\bin\Debug\QueensPuzzle.pdb
+C:\Users\Yuhao\Desktop\QueensPuzzle\QueensPuzzle\obj\Debug\QueensPuzzle.csprojAssemblyReference.cache
+C:\Users\Yuhao\Desktop\QueensPuzzle\QueensPuzzle\obj\Debug\QueensPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Yuhao\Desktop\QueensPuzzle\QueensPuzzle\obj\Debug\QueensPuzzle.exe
+C:\Users\Yuhao\Desktop\QueensPuzzle\QueensPuzzle\obj\Debug\QueensPuzzle.pdb
